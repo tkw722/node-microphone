@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "lame": "1.0.3"
+     "lame": "git://github.com/tkw722/node-lame.git"
   },
   "devDependencies": {},
   "homepage": "http://github.com/vincentsaluzzo/node-microphone",
